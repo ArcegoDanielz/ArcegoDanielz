@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍  I'm based in Brazil<br>✉️  You can contact me at https://www.linkedin.com/in/daniel-arcego/</p>
+<p align="left">🌍  I am Brazilian<br>✉️  You can contact me at https://www.linkedin.com/in/daniel-arcego/</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
