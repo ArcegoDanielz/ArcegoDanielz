@@ -2,16 +2,6 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
-
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 <h1 align="center">Hi, my name is Daniel Arcego Babicz 👋</h1>
 
 ###
@@ -19,6 +9,8 @@
 <h3 align="left"> Computer Engineer
 
 ###
+
+<p align="left">🌍  I'm based in Brazil<br>✉️  You can contact me at https://www.linkedin.com/in/daniel-arcego/</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -43,11 +35,9 @@
 </div>
 
 ###
-<h3 align="left">Socials</h3>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-arcego/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielsarcego_/)
+ 
 
 
 <h3 align="left">🔥   My Stats :</h3>
