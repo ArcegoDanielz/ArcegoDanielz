@@ -39,14 +39,19 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielsarcego_/)
  
 
-
-<h3 align="left">🔥   My Stats :</h3>
-
 ###
+## Badges
+   My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArcegoDanielz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArcegoDanielz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=ArcegoDanielz&show_icons=true&theme=dark&title_color=f97316&icon_color=f97316&text_color=ffffff&bg_color=22272e&hide_border=true" width="60%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcegoDanielz&layout=compact&theme=dark&title_color=f97316&text_color=ffffff&bg_color=22272e&hide_border=true" width="60%" />
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center">
+  <a href="https://github.com/ArcegoDanielz/gerenciador-de-gastos" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcegoDanielz&repo=gerenciador-de-gastos&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en" />
+  </a>
 </div>
-
-###
+<br /><br /><br /><br /><br /><br /><br />
