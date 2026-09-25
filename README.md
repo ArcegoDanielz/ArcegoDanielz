@@ -1,41 +1,23 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# I'm Daniel Arcego Babicz 
 
-<h1 align="center">Hi, my name is Daniel Arcego Babicz 👋</h1>
+I'm a **Computer Engineer** from Brazil, currently working as a **Junior Software Developer**.
 
-###
+I have a strong interest in software development and enjoy building applications, solving problems, and continuously improving my technical skills. In my current role, I work mainly with **JavaScript, Next.js, Node.js, React, and PostgreSQL**, developing and maintaining web applications and backend services.
 
-<h3 align="left"> Computer Engineer
+Throughout my studies and professional experience, I have had the opportunity to work on several projects, including smaller professional projects, university challenges, and personal projects. These experiences have helped me develop my problem-solving skills, understand software development practices, and gain practical experience working with databases, APIs, frontend and backend technologies.
 
-###
+### Technologies & Tools
 
-<p align="left">🌍  I am Brazilian<br>✉️  You can contact me at https://www.linkedin.com/in/daniel-arcego/</p>
+* **Languages:** JavaScript
+* **Frontend:** React, Next.js
+* **Backend:** Node.js
+* **Database:** PostgreSQL
+* **Version Control:** Git, GitLab  
+* **Containers:** Docker
 
-<h3 align="left">🛠 Language and tools</h3>
+### About Me
 
-###
+* **Brazilian**
+* **Junior Software Developer**
+* **Computer Engineer**
 
-
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-</div>
-
-
-###
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-arcego/)
-
-  </a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
